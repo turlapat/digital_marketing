@@ -1,3 +1,3 @@
 FROM nginx
 EXPOSE 80
-COPY . /usr/share/nginx/html/
+COPY 2128_tween_agency  /usr/share/nginx/html/
